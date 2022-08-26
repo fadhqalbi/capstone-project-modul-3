@@ -1,6 +1,6 @@
 # capstone-project-modul-3
 
-Dokumentasi capstone project modul tiga, yang berjudul California House Price Prediction dari dataset data_california_house.csv yang tersedia di [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+Dokumentasi capstone project modul tiga, yang berjudul **California House Price Prediction** dari dataset data_california_house.csv yang tersedia di [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
 ## Deskripsi
 Projek ini merupakan bagian dari pembalajaran data science di Purwadhika, untuk melakukan analisis regresi menggunakan machine learning dengan pendekatan analisis:
