@@ -18,3 +18,6 @@ Projek ini merupakan bagian dari pembalajaran data science di Purwadhika, untuk 
  ![image](https://user-images.githubusercontent.com/36106884/186905218-02e267aa-0dec-4446-8a0d-f8233c002e35.png)
 
 **Kesimpulan:** Pengurangan fitur efektif dalam meningkatkan kinerja model yang ditandai dengan penurunan skor metrik RMSE, MAE, RMSLE, & MAPE dan peningkatan skor R-Square
+
+## Referensi
+Video penjelasan: https://1drv.ms/v/s!AiOv3tcnRdeNkOtlJ42kCRPuqGQK3A
